@@ -16,3 +16,4 @@ six==1.16.0
 urllib3==1.26.4
 Werkzeug==2.0.0
 wincertstore==0.2
+gunicorn
